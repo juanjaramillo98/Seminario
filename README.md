@@ -1,4 +1,4 @@
-este repositorio contiene los diferentes momentos evalluativos del curso de seminario, Grupo 2
+Este repositorio contiene los diferentes momentos evalluativos del curso de seminario, Grupo 2
 
 
 instrucciones para la ejecucion del Notebook del momento evaluativo numero 3 
