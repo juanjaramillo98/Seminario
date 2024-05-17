@@ -6,8 +6,11 @@ instrucciones para la ejecucion del Notebook del momento evaluativo numero 3
 En este repositorio se encuentran 2 notebooks relacionados al momento evaluativo numero 3 
 
 momentos_evaluativos
+
 -->ME03-G02-1216727112-1152706601
+
 ----->ME03-G02-notebook.ipynb
+
 ----->Colab_ME03-G02-notebook.ipynb
 
 
